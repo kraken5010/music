@@ -3,6 +3,7 @@ music_cache/
 
 __pycache__/
 music_cache
+site/
 *.py[cod]
 *$py.class
 
