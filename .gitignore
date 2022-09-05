@@ -2,6 +2,7 @@
 music_cache/
 
 __pycache__/
+music_cache
 *.py[cod]
 *$py.class
 
